@@ -5,9 +5,10 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 ## Alunos integrantes da equipe
 
 * Vitor Lucio de Oliveira
-* Vitor Dias
-* Pedro Henriques
-* Pedro Matoso
+* Vitor Dias de Britto Militão
+* Pedro Henriques Guimarães da Silveira
+* Júlio César Gonzaga Ferreira Silva
+* Julia Gabriela dos Santos Ramalho Aleluia
 
 ## Professores responsáveis
 
