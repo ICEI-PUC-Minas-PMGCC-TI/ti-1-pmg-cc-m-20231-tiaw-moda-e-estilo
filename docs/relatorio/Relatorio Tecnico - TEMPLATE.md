@@ -58,11 +58,11 @@
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Junto com a passagem do tempo as pessoas tendem a mudar seus gostos, e isso interfere diretamente com a moda. Tentar se manter "estiloso" ou "dentro da moda", sempre foi um desafio para alguns, tanto por falta de tempo para aprender quanto dinheiro para seguir. Mas infelizmente, no mundo atual, a imagem que você apresenta para os outros é fundamental para sua vivência social, tornando saber se vestir algo essencial. 
+  Junto com a passagem do tempo as pessoas tendem a mudar seus gostos, e isso interfere diretamente com a moda. Tentar se manter "estiloso" ou "dentro da moda", sempre foi um desafio para alguns, tanto por falta de tempo para aprender quanto dinheiro para seguir. Mas infelizmente, no mundo atual, a imagem que você apresenta para os outros é fundamental para sua vivência social, tornando saber se vestir algo essencial. 
 
-Desta forma, muitos buscam se guiar através de símbolos da moda, “influencers” ou simplesmente o que outros ao redor usam. Entretendo tais métodos tão grandes chances de falhas por dois motivos: não ter acesso as roupas recomendadas e se as roupas combinaram com a pessoa. Isso causa frustação, baixa autoestima e desestimula a busca pelo estilo próprio. 
+  Desta forma, muitos buscam se guiar através de símbolos da moda, “influencers” ou simplesmente o que outros ao redor usam. Entretendo tais métodos tão grandes chances de falhas por dois motivos: não ter acesso as roupas recomendadas e se as roupas combinaram com a pessoa. Isso causa frustação, baixa autoestima e desestimula a busca pelo estilo próprio. 
 
-Sendo assim, criando uma necessidade de canais confiáveis e personalizados de guia de vestimentas, sem a parcialidade de grandes empresas que querem vender seus produtos, e assim permitindo as pessoas explorarem o próprio estilo, mas mantendo uma boa estética social. 
+  Sendo assim, criando uma necessidade de canais confiáveis e personalizados de guia de vestimentas, sem a parcialidade de grandes empresas que querem vender seus produtos, e assim permitindo as pessoas explorarem o próprio estilo, mas mantendo uma boa estética social. 
 ## Objetivos
 
 ......  COLOQUE AQUI O SEU TEXTO ......
