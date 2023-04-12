@@ -58,22 +58,11 @@
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+> Junto com a passagem do tempo as pessoas tendem a mudar seus gostos, e isso interfere diretamente com a moda. Tentar se manter "estiloso" ou "dentro da moda", sempre foi um desafio para alguns, tanto por falta de tempo para aprender quanto dinheiro para seguir. Mas infelizmente, no mundo atual, a imagem que você apresenta para os outros é fundamental para sua vivência social, tornando saber se vestir algo essencial. 
 
+Desta forma, muitos buscam se guiar através de símbolos da moda, “influencers” ou simplesmente o que outros ao redor usam. Entretendo tais métodos tão grandes chances de falhas por dois motivos: não ter acesso as roupas recomendadas e se as roupas combinaram com a pessoa. Isso causa frustação, baixa autoestima e desestimula a busca pelo estilo próprio. 
+
+Sendo assim, criando uma necessidade de canais confiáveis e personalizados de guia de vestimentas, sem a parcialidade de grandes empresas que querem vender seus produtos, e assim permitindo as pessoas explorarem o próprio estilo, mas mantendo uma boa estética social. 
 ## Objetivos
 
 ......  COLOQUE AQUI O SEU TEXTO ......
