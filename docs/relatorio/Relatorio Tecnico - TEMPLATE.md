@@ -71,78 +71,33 @@ Como objetivos específicos, temos:
 
 *Fornecer funcionalidades que permitam interagir com conjuntos de roupas criadas por usuários, e conjuntos criados pela própria plataforma; 
 
-*Permitir a criação de vários estilos e conjuntos com o aconselhamento da plataforma, para atender gostos individuais, mas se mantendo “bem-vestida”. 
+*Permitir a criação de vários estilos e conjuntos com o aconselhamento da plataforma, para atender gostos individuais, mas se mantendo “bem-vestida”;
 
 *Tornar o conhecimento de moda pessoal mais acessível, independente de genero ou condição social. 
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+ A moda e a sua relação com o indivíduo e a sociedade, trata-se de uma relação que existe para além da necessidade básica de cobrir e proteger o corpo, mas de explora o mundo visual e identidade do ser humano.
+ Além disso, com o advento da internet e das redes sociais, tornou-se mais fácil para as pessoas pesquisarem e acessarem informações sobre moda, seja por meio de blogs, fóruns, sites especializados ou influenciadores digitais. Dessa forma, é seguro afirmar que há um grande número de pessoas que pesquisam sobre moda e que esse número tende a crescer cada vez mais. 
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Embora todas as pessoas possam se beneficiar de um guia para se adequar a moda, que muda constantemente, o foco deste trabalho está no público que não consegue achar um estilo que encaixe em seu corpo e personalidade, e pessoas que precisam de roupas especificas para eventos específicos (entrevistas de empregos, festas, festivais, etc...) 
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
- 
+Portanto, como público-alvo temos homens e as mulheres entre 14 e 30 anos que se encontram na necessidade de se reinventar e tentar “looks” novos, mas não tem conhecimento de como começar. 
+
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+A definição do problema neste projeto foi fundamentada por entrevistas e pesquisas de necessidades do mundo da moda realizadas pelos membros da equipe. Sendo representada por meio de personas criadas para atender as diferentes necessidades de usuários. 
 
 ## Personas, Empatia e Proposta de Valor
 
-......  COLOQUE AQUI O SEU TEXTO ......
+As personas e suas necessidades, criadas para maior entendeminto do problema, estão representadas nas imagens a seguir: 
 
 
-> Relacione as personas identificadas no seu projeto, os respectivos mapas de empatia e 
-> mapas da proposta de valor. Lembre-se que você deve ser enumerar e descrever precisamente 
-> e de forma personalizada todos os principais envolvidos com a solução almeja. 
-> 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
-> - [Canvas da Proposta de Valor](https://analistamodelosdenegocios.com.br/canvas-da-proposta-de-valor/)
-> 
-> 
 > **Exemplo de Persona**
 > 
-> ![Exemplo de Persona](images/persona.png)
+> ![Persona 1](images/persona.png)
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 >
