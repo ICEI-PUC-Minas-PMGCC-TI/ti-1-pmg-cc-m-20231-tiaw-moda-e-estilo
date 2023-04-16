@@ -178,37 +178,50 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
+Entre as prioridades para a montagem da interface do sistema, foi criado uma maior atenção na praticidade, acessibilidade e usabilidade. Sendo assim, o projeto tem o seu visual padronizado o para funcionamento em desktops e dispositivos móveis. Resultando em um ritimo único de uso em qualquer plataforma ou navegador. Mantendo a experiencia fácil e prática para todos os usuários.
 
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
 
 ## User Flow
 
 
-[Exemplo de UserFlow](images/userflow.jpg)
+![userFlow ](images/UserFlow.png)
 
 
 ## Wireframes
 
 ......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
 
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+> **Wireframe 1: Pagina Inicial**
+
+![Wireframe 1](images/enzo1.png)
+
+> **Wireframe 2: Enzo**
+
+![Wireframe 2](images/enzo1.png)
+
+> **Wireframe 3: Enzo**
+
+![Wireframe 3](images/enzo1.png)
+
+> **Wireframe 4: Enzo**
+
+![Wireframe 4](images/enzo1.png)
+
+> **Persona 5: Enzo**
+
+![Wireframe 5](images/enzo1.png)
+
+> **Wireframe 6: Enzo**
+
+![Wireframe 6](images/enzo1.png)
+
+> **Wireframe 7: Enzo**
+
+![Wireframe 7](images/enzo1.png)
+
+> **Wireframe 8: Enzo**
+
+![Wireframe 8](images/enzo1.png)
 
 
 # Metodologia
