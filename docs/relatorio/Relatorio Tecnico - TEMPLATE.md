@@ -14,7 +14,6 @@ Ciência da Computação-Puc Minas
 - Júlio César Gonzaga Ferreira Silva
 - Pedro Henriques Guimarães da Silveira
 - Julia Gabriela dos Santos Ramalho Aleluia
-- Pedro Matoso
 
 # Estrutura do Documento
 
