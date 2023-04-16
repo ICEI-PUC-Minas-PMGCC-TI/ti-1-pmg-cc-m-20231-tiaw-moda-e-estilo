@@ -189,39 +189,38 @@ Entre as prioridades para a montagem da interface do sistema, foi criado uma mai
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
 
 > **Wireframe 1: Pagina Inicial**
 
-![Wireframe 1](images/enzo1.png)
+![Wireframe 1](images/mp.jpeg)
 
-> **Wireframe 2: Enzo**
+> **Wireframe 2: Login**
 
-![Wireframe 2](images/enzo1.png)
+![Wireframe 2](images/Login.jpeg)
 
-> **Wireframe 3: Enzo**
+> **Wireframe 3: Seu Perfil**
 
-![Wireframe 3](images/enzo1.png)
+![Wireframe 3](images/sp.jpeg)
 
-> **Wireframe 4: Enzo**
+> **Wireframe 4: Barra de Pesquisa**
 
-![Wireframe 4](images/enzo1.png)
+![Wireframe 4](images/pesquisar.jpeg)
 
-> **Persona 5: Enzo**
+> **Persona 5: Seus Looks**
 
-![Wireframe 5](images/enzo1.png)
+![Wireframe 5](images/looks.jpeg)
 
-> **Wireframe 6: Enzo**
+> **Wireframe 6: Criação de  Perfil**
 
-![Wireframe 6](images/enzo1.png)
+![Wireframe 6](images/lista.jpeg)
 
-> **Wireframe 7: Enzo**
+> **Wireframe 7: Lojas Afiliadas**
 
-![Wireframe 7](images/enzo1.png)
+![Wireframe 7](images/lojas.jpeg)
 
-> **Wireframe 8: Enzo**
+> **Wireframe 8: Mais informções**
 
-![Wireframe 8](images/enzo1.png)
+![Wireframe 8](images/info.jpeg)
 
 
 # Metodologia
