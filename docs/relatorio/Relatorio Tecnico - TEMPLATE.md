@@ -239,10 +239,10 @@ Divisão:
 
 Equipe de Desenvolvimento:
 
-- Vitor Dias (Desenvolvedor Front End);
-- Julio Cesar Silva (Desenvolvedor Back End);
-- Pedro Henriques Guimarães (Analista de Negócios);
-- Julia Gabriela (Designer);
+- Vitor Dias;
+- Julio Cesar Silva;
+- Pedro Henriques Guimarães;
+- Julia Gabriela;
 
 
 ## Ferramentas
