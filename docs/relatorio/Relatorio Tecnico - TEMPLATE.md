@@ -1,7 +1,7 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-Projeto Moda e Estilo
+Trendy - The Look Book
 
 `CURSO` 
 
