@@ -268,7 +268,7 @@ Para gestão do software desenvolvido pelo time, nossa equipe utiliza um process
 
 
 # Projeto da Solução
-No projeto de solução foi decidido tomar foco na funcionalidade princcipal do projeto: a recomendação de combinações e estilos de roupas para o usuário de forma a guia-lo na escolha de algo que se encaixe no que ele procura.
+No projeto de solução foi decidido tomar foco na funcionalidade principal do projeto: a recomendação de combinações e estilos de roupas para o usuário de forma a guia-lo na escolha de algo que se encaixe no que ele procura.
 
 ## Tecnologias Utilizadas
 
