@@ -268,21 +268,14 @@ Para gestão do software desenvolvido pelo time, nossa equipe utiliza um process
 
 
 # Projeto da Solução
-
-......  COLOQUE AQUI O SEU TEXTO ......
+No projeto de solução foi decidido tomar foco na funcionalidade princcipal do projeto: a recomendação de combinações e estilos de roupas para o usuário de forma a guia-lo na escolha de algo que se encaixe no que ele procura.
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Para resolver o problema no qual o projeto foca, foi criada uma aplicação web utilizando HTML (para a estruturação da página), CSS e Bootstrap(para a estilização), JavaScript com o LocalStorage (para tornar o site dinâmico e guardar dados localmente). Além disso foram utilizadas outras tecnologias: o Figma, para criar o Wireframe do projeto; o Chat GPT, para auxiliar o desenvolvimento; o Looka para a criação da logo e, por fim, o Replit foi o prinipal ambiente de desnvolvimento do projeto.
+![Tecnologias](images/Tecnologias.png)
 
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
+
 > Inclua os diagramas de User Flow, esboços criados pelo grupo
 > (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
 > item textualmente comentando e complementando o que está apresentado
