@@ -273,7 +273,7 @@ No projeto de solução foi decidido tomar foco na funcionalidade principal do p
 ## Tecnologias Utilizadas
 
 Para resolver o problema no qual o projeto foca, foi criada uma aplicação web utilizando HTML (para a estruturação da página), CSS e Bootstrap(para a estilização), JavaScript com o LocalStorage (para tornar o site dinâmico e guardar dados localmente). Além disso foram utilizadas outras tecnologias: o Figma, para criar o Wireframe do projeto; o Chat GPT, para auxiliar o desenvolvimento; o Looka para a criação da logo e, por fim, o Replit foi o principal ambiente de desnvolvimento do projeto.
-![Tecnologias](images/Tecnologias.png)
+![Tecnologias](images/DiagramaTecnologias.png)
 
 
 > Inclua os diagramas de User Flow, esboços criados pelo grupo
@@ -331,7 +331,7 @@ Na arquitetura da solução temos o projeto web utilizando HTML, CSS, JavaScript
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
+LAZARINI, Jader. Varejo de moda: o desafio do mercado brasileiro de R$ 115 bilhões. 2022. Disponível em: https://trademap.com.br/agencia/analises-e-relatorios/varejo-de-moda-mercado-brasileiro-lojas-renner-lren3-arezzo-arzz3. Acesso em: 10 de abril de 2023.
 
 > Inclua todas as referências (livros, artigos, sites, etc) utilizados
 > no desenvolvimento do trabalho.
