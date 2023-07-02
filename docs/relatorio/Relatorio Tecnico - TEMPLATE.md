@@ -272,7 +272,7 @@ No projeto de solução foi decidido tomar foco na funcionalidade principal do p
 
 ## Tecnologias Utilizadas
 
-Para resolver o problema no qual o projeto foca, foi criada uma aplicação web utilizando HTML (para a estruturação da página), CSS e Bootstrap(para a estilização), JavaScript com o LocalStorage (para tornar o site dinâmico e guardar dados localmente). Além disso foram utilizadas outras tecnologias: o Figma, para criar o Wireframe do projeto; o Chat GPT, para auxiliar o desenvolvimento; o Looka para a criação da logo e, por fim, o Replit foi o prinipal ambiente de desnvolvimento do projeto.
+Para resolver o problema no qual o projeto foca, foi criada uma aplicação web utilizando HTML (para a estruturação da página), CSS e Bootstrap(para a estilização), JavaScript com o LocalStorage (para tornar o site dinâmico e guardar dados localmente). Além disso foram utilizadas outras tecnologias: o Figma, para criar o Wireframe do projeto; o Chat GPT, para auxiliar o desenvolvimento; o Looka para a criação da logo e, por fim, o Replit foi o principal ambiente de desnvolvimento do projeto.
 ![Tecnologias](images/Tecnologias.png)
 
 
@@ -283,14 +283,8 @@ Para resolver o problema no qual o projeto foca, foi criada uma aplicação web 
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
-
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
-> 
-> **Exemplo do diagrama de Arquitetura**:
-> 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
+Na arquitetura da solução temos o projeto web utilizando HTML, CSS, JavaScript (para a estruturação, estilização e tornar a página dinâmica e responsiva) e LocalStorage (para salvar os dados localmente), o projeto foi disponibilizado na internet por meio do Replit.
+![Arquitetura](images/Arquitetura.png)
 
 
 # Avaliação da Aplicação
