@@ -273,11 +273,8 @@ No projeto de solução foi decidido tomar foco na funcionalidade principal do p
 Para resolver o problema no qual o projeto foca, foi criada uma aplicação web utilizando HTML (para a estruturação da página), CSS e Bootstrap(para a estilização), JavaScript com o LocalStorage (para tornar o site dinâmico e guardar dados localmente). Além disso foram utilizadas outras tecnologias: o Figma, para criar o Wireframe do projeto; o Chat GPT, para auxiliar o desenvolvimento; o Looka para a criação da logo e, por fim, o Replit foi o principal ambiente de desnvolvimento do projeto.
 ![Tecnologias](images/DiagramaTecnologias.png)
 
-
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
+Como é mostrado no User Flow, o usuario terá acesso a uma página de Login ou Cadastro, que o levará para a página principal de looks, com uma barra lateral onde estarão as páginas de carcteristicas e preferências, perfil, Lojas afiliadas e Mais Informações.
+![userFlow ](images/UserFlow.png)
 
 ## Arquitetura da solução
 
@@ -287,53 +284,40 @@ Na arquitetura da solução temos o projeto web utilizando HTML, CSS, JavaScript
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
+Os cenários de testes utilizados foram dividos seguindo as funcionalidades aplicadas no projeto: o primeiro cenário sendo o cadastro e login de um usuário, o segundo a navegação pela barra lateral da página, o terceiro o acesso a tela de perfil e edição de informações do usuário, o terceiro o acesso as telas informativas, e o quarto, e ultimo, a possibilidade de pesquisa de looks e sugestões de combinações para o usuário, com a opção de salvar essas sugestões no site. Dessa forma, cada um dessas funcionalidades foi testadas e os resultados foram satisfatórios; algumas funcionalidades que incialmente estavam no projeto foram descartadas a partir dos testes ao serem consideradas incompatíveis com a ideia principal do projeto ou por problemos no desenvolvimento.
 
 ## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Para realizar os testes foi reunido um grupo de dez pessoas, onde os testes foram divididos em fases de acordo com as funcionalidades aplicadas no site, unindo assim os testes de unidade, integração e usabilidade.
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
+### Requisitos Funcionais
 
-## Ferramentas de Testes (Opcional)
+|ID    | Funcionalidades testadas|
+|------|-----------------------------------------|----|
+|RF-001| Feito e testado com sucesso| 
+|RF-002| Feito e testado com sucesso|
+|RF-003| Feito e testado com sucesso|
+|RF-004| Descartado|
+|RF-005| Feito e testado com sucesso|
+|RF-006| Descartado|
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+### Requisitos não Funcionais
+
+|ID     | Funcionaliades testadas|
+|-------|-------------------------|----|
+|RNF-001| Feito e testado com sucesso| 
+|RNF-002| Feito e testado com sucesso| 
+|RNF-003| Feito e testado com sucesso |
+|RNF-004| Feito e testado com sucesso |  
+|RNF-004| OFeito e testado com sucesso |  
+
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
-
+Dessa forma, a partir dos testes realizados a equipe tomou a decisão de manter certas funcionalidades e elementos que forma pensados nas fases iniciais do projeto, porém, foi tomada a decisão de alterar alguns dos elementos e funcionalidades pensadas inicialmente ao ocorrer a identificação de pontos fracos no desenvolvimento, assim, as opções de favoritar, seguir e dar like em roupas e outros perfis forma eliminadas. O ponto forte do projeto acabou sendo a funcionalidade principal centrada na problema tratado pela aplicação web: a recomendação de combinações e peças de roupa para o usuário de acordo com o gosto de cada indivíduo.
 
 # Referências
 
 LAZARINI, Jader. Varejo de moda: o desafio do mercado brasileiro de R$ 115 bilhões. 2022. Disponível em: https://trademap.com.br/agencia/analises-e-relatorios/varejo-de-moda-mercado-brasileiro-lojas-renner-lren3-arezzo-arzz3. Acesso em: 10 de abril de 2023.
 
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
