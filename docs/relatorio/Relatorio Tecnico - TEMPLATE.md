@@ -310,7 +310,7 @@ Para realizar os testes foi reunido um grupo de dez pessoas, onde os testes fora
 |RNF-002| Feito e testado com sucesso| 
 |RNF-003| Feito e testado com sucesso |
 |RNF-004| Feito e testado com sucesso |  
-|RNF-004| OFeito e testado com sucesso |  
+|RNF-004| Feito e testado com sucesso |  
 
 
 ## Registros de Testes
