@@ -293,7 +293,7 @@ Para realizar os testes foi reunido um grupo de dez pessoas, onde os testes fora
 ### Requisitos Funcionais
 
 |ID    | Funcionalidades testadas|
-|------|-----------------------------------------|----|
+|------|---------------------------------------------|
 |RF-001| Feito e testado com sucesso| 
 |RF-002| Feito e testado com sucesso|
 |RF-003| Feito e testado com sucesso|
@@ -305,7 +305,7 @@ Para realizar os testes foi reunido um grupo de dez pessoas, onde os testes fora
 ### Requisitos não Funcionais
 
 |ID     | Funcionaliades testadas|
-|-------|-------------------------|----|
+|-------|-----------------------------|
 |RNF-001| Feito e testado com sucesso| 
 |RNF-002| Feito e testado com sucesso| 
 |RNF-003| Feito e testado com sucesso |
